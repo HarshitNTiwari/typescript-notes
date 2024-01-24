@@ -12,3 +12,4 @@ For e.g. the following will raise a compile time error, since we're trying to as
 number1 = "sixty_nine" // error
 ```
 
+### Literal Types
