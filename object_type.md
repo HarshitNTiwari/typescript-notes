@@ -8,7 +8,7 @@ let scientist1 = {
     dept: "Physics"
 }
 ```
-An object type's very simple aim is to define the structure for that object.
+In simple terms an object type's aim is to define the structure for that object.
 We can annotate this object `scientist1` like following:
 
 ```ts
