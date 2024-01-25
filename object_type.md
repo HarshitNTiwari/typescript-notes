@@ -18,3 +18,5 @@ let scientist1 : {
     dept: string
 }
 ```
+
+We can pass around this object as parameter to functions. 
