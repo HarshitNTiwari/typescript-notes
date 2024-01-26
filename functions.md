@@ -1,4 +1,5 @@
-When it comes to functions, two of the most important aspects are: what a function accepts and what a function returns. It is exactly these two things whose type we need to care about - the functions parameters and the function's return type. 
+# Functions
+When it comes to functions, two of the most important aspects are: what a function accepts and what a function returns. It is exactly these two things whose type we need to care about - the function parameters and the function's return type. 
 
 Consider the following JS function:
 

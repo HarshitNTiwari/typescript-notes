@@ -52,7 +52,7 @@ Here although `number3` in itself is reasssignable, we have _casted_ it to be of
 But what if we turn the tables and do something like this:
 
 ```ts
-const number4 = 79 as number
+const number4 = 79 as number // accepted since 79 and number are similar types
 ```
 
 Here we're explicitly casting `number4` as a `number` even though we know that it's type is `79`. Will this work? 
