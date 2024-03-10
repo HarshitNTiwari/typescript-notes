@@ -70,6 +70,12 @@ interface Scientist {
   born: number;
   dept: string;
 }
+
+let scientist1: Scientist = {
+  name: "Raman",
+  born: 1888,
+  dept: "Physics",
+};
 ```
 
 Note that the declaration above is pretty much similar to how we define type alias (expect for the fact that there's no `=` symbol); they infact do the same thing - give a name to an object type.
